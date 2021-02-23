@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\bin\Debug\netcoreapp3.1\EmojiDetector.exe
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\bin\Debug\netcoreapp3.1\EmojiDetector.deps.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\bin\Debug\netcoreapp3.1\EmojiDetector.runtimeconfig.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\bin\Debug\netcoreapp3.1\EmojiDetector.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\bin\Debug\netcoreapp3.1\EmojiDetector.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\bin\Debug\netcoreapp3.1\EmojiDetector.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.csprojAssemblyReference.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\EmojiDetector\obj\Debug\netcoreapp3.1\EmojiDetector.genruntimeconfig.cache

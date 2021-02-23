@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\bin\Debug\netcoreapp3.1\AddAstra.exe
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\bin\Debug\netcoreapp3.1\AddAstra.deps.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\bin\Debug\netcoreapp3.1\AddAstra.runtimeconfig.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\bin\Debug\netcoreapp3.1\AddAstra.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\bin\Debug\netcoreapp3.1\AddAstra.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\bin\Debug\netcoreapp3.1\AddAstra.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\obj\Debug\netcoreapp3.1\AddAstra.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\obj\Debug\netcoreapp3.1\AddAstra.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\obj\Debug\netcoreapp3.1\AddAstra.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\obj\Debug\netcoreapp3.1\AddAstra.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\obj\Debug\netcoreapp3.1\AddAstra.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\obj\Debug\netcoreapp3.1\AddAstra.genruntimeconfig.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\AddAstra\obj\Debug\netcoreapp3.1\AddAstra.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.exe
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.deps.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.runtimeconfig.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\bin\Debug\netcoreapp3.1\ActivationKeys.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.csprojAssemblyReference.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ActivationKeys\obj\Debug\netcoreapp3.1\ActivationKeys.genruntimeconfig.cache

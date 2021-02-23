@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.exe
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.deps.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.runtimeconfig.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\bin\Debug\netcoreapp3.1\PlantDiscovery.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.csprojAssemblyReference.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\PlantDiscovery\obj\Debug\netcoreapp3.1\PlantDiscovery.genruntimeconfig.cache

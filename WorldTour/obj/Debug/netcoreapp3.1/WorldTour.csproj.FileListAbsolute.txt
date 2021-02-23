@@ -1,0 +1,12 @@
+C:\Users\ZAKO\source\repos\FinalExamPreparation\WorldTour\bin\Debug\netcoreapp3.1\WorldTour.exe
+C:\Users\ZAKO\source\repos\FinalExamPreparation\WorldTour\bin\Debug\netcoreapp3.1\WorldTour.deps.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\WorldTour\bin\Debug\netcoreapp3.1\WorldTour.runtimeconfig.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\WorldTour\bin\Debug\netcoreapp3.1\WorldTour.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\WorldTour\bin\Debug\netcoreapp3.1\WorldTour.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\WorldTour\bin\Debug\netcoreapp3.1\WorldTour.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\WorldTour\obj\Debug\netcoreapp3.1\WorldTour.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\WorldTour\obj\Debug\netcoreapp3.1\WorldTour.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\FinalExamPreparation\WorldTour\obj\Debug\netcoreapp3.1\WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\WorldTour\obj\Debug\netcoreapp3.1\WorldTour.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\WorldTour\obj\Debug\netcoreapp3.1\WorldTour.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\WorldTour\obj\Debug\netcoreapp3.1\WorldTour.genruntimeconfig.cache

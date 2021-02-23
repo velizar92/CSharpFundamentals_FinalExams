@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\bin\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.exe
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\bin\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.deps.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\bin\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.runtimeconfig.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\bin\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\bin\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\bin\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\obj\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.csprojAssemblyReference.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\obj\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\obj\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\obj\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\obj\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\obj\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfTheCodeAndLogicWithClasses\obj\Debug\netcoreapp3.1\HeroesOfTheCodeAndLogicWithClasses.genruntimeconfig.cache

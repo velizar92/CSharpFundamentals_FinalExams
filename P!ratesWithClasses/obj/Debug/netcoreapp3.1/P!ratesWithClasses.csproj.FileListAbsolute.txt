@@ -1,0 +1,12 @@
+C:\Users\ZAKO\source\repos\FinalExamPreparation\P!ratesWithClasses\bin\Debug\netcoreapp3.1\P!ratesWithClasses.exe
+C:\Users\ZAKO\source\repos\FinalExamPreparation\P!ratesWithClasses\bin\Debug\netcoreapp3.1\P!ratesWithClasses.deps.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\P!ratesWithClasses\bin\Debug\netcoreapp3.1\P!ratesWithClasses.runtimeconfig.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\P!ratesWithClasses\bin\Debug\netcoreapp3.1\P!ratesWithClasses.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\P!ratesWithClasses\bin\Debug\netcoreapp3.1\P!ratesWithClasses.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\P!ratesWithClasses\bin\Debug\netcoreapp3.1\P!ratesWithClasses.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\P!ratesWithClasses\obj\Debug\netcoreapp3.1\P!ratesWithClasses.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\P!ratesWithClasses\obj\Debug\netcoreapp3.1\P!ratesWithClasses.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\FinalExamPreparation\P!ratesWithClasses\obj\Debug\netcoreapp3.1\P!ratesWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\P!ratesWithClasses\obj\Debug\netcoreapp3.1\P!ratesWithClasses.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\P!ratesWithClasses\obj\Debug\netcoreapp3.1\P!ratesWithClasses.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\P!ratesWithClasses\obj\Debug\netcoreapp3.1\P!ratesWithClasses.genruntimeconfig.cache

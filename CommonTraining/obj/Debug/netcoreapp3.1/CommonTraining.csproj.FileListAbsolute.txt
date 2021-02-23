@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\bin\Debug\netcoreapp3.1\CommonTraining.exe
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\bin\Debug\netcoreapp3.1\CommonTraining.deps.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\bin\Debug\netcoreapp3.1\CommonTraining.runtimeconfig.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\bin\Debug\netcoreapp3.1\CommonTraining.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\bin\Debug\netcoreapp3.1\CommonTraining.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\bin\Debug\netcoreapp3.1\CommonTraining.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\obj\Debug\netcoreapp3.1\CommonTraining.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\obj\Debug\netcoreapp3.1\CommonTraining.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\obj\Debug\netcoreapp3.1\CommonTraining.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\obj\Debug\netcoreapp3.1\CommonTraining.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\obj\Debug\netcoreapp3.1\CommonTraining.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\obj\Debug\netcoreapp3.1\CommonTraining.genruntimeconfig.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\CommonTraining\obj\Debug\netcoreapp3.1\CommonTraining.csprojAssemblyReference.cache

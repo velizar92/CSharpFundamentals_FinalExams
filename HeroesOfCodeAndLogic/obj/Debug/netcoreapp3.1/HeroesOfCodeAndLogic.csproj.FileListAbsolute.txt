@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.exe
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.deps.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.runtimeconfig.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\bin\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.csprojAssemblyReference.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\HeroesOfCodeAndLogic\obj\Debug\netcoreapp3.1\HeroesOfCodeAndLogic.genruntimeconfig.cache

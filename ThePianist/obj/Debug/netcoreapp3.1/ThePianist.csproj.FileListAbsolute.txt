@@ -1,0 +1,13 @@
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\bin\Debug\netcoreapp3.1\ThePianist.exe
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\bin\Debug\netcoreapp3.1\ThePianist.deps.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\bin\Debug\netcoreapp3.1\ThePianist.runtimeconfig.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\bin\Debug\netcoreapp3.1\ThePianist.runtimeconfig.dev.json
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\bin\Debug\netcoreapp3.1\ThePianist.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\bin\Debug\netcoreapp3.1\ThePianist.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.csprojAssemblyReference.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.AssemblyInfoInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.AssemblyInfo.cs
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.csproj.CoreCompileInputs.cache
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.dll
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.pdb
+C:\Users\ZAKO\source\repos\FinalExamPreparation\ThePianist\obj\Debug\netcoreapp3.1\ThePianist.genruntimeconfig.cache
